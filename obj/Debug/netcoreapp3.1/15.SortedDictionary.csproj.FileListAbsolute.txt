@@ -1,0 +1,12 @@
+D:\QA__\GitProjects\15.SortedDictionary\bin\Debug\netcoreapp3.1\15.SortedDictionary.exe
+D:\QA__\GitProjects\15.SortedDictionary\bin\Debug\netcoreapp3.1\15.SortedDictionary.deps.json
+D:\QA__\GitProjects\15.SortedDictionary\bin\Debug\netcoreapp3.1\15.SortedDictionary.runtimeconfig.json
+D:\QA__\GitProjects\15.SortedDictionary\bin\Debug\netcoreapp3.1\15.SortedDictionary.runtimeconfig.dev.json
+D:\QA__\GitProjects\15.SortedDictionary\bin\Debug\netcoreapp3.1\15.SortedDictionary.dll
+D:\QA__\GitProjects\15.SortedDictionary\bin\Debug\netcoreapp3.1\15.SortedDictionary.pdb
+D:\QA__\GitProjects\15.SortedDictionary\obj\Debug\netcoreapp3.1\15.SortedDictionary.AssemblyInfoInputs.cache
+D:\QA__\GitProjects\15.SortedDictionary\obj\Debug\netcoreapp3.1\15.SortedDictionary.AssemblyInfo.cs
+D:\QA__\GitProjects\15.SortedDictionary\obj\Debug\netcoreapp3.1\15.SortedDictionary.csproj.CoreCompileInputs.cache
+D:\QA__\GitProjects\15.SortedDictionary\obj\Debug\netcoreapp3.1\15.SortedDictionary.dll
+D:\QA__\GitProjects\15.SortedDictionary\obj\Debug\netcoreapp3.1\15.SortedDictionary.pdb
+D:\QA__\GitProjects\15.SortedDictionary\obj\Debug\netcoreapp3.1\15.SortedDictionary.genruntimeconfig.cache
