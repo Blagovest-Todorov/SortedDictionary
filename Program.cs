@@ -23,6 +23,8 @@ namespace _15.SortedDictionary
             Console.WriteLine(string.Join('\n', dict));
             Console.WriteLine();
             Console.WriteLine(string.Join('\n', sortedDict));
+            // the default ordering in sortedDictionary is ordering/sorting by key!!
+            /// We may sort the dictionary by Value which is not convenient att all
 
 
         }
